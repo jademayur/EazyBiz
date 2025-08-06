@@ -11,3 +11,4 @@ namespace EazyBizAPI.Repositories.User
         Task<UserListResponse> GetUsersAsync(UserListRequest request);
     }
 }
+ 
